@@ -6,8 +6,6 @@
 
 🎓 Student at **University of Information Technology – VNU-HCM (UIT)**  
 
-![UIT Logo](./uit.png)
-
 ---
 
 ### 🧠 About Me
