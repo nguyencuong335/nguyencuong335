@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi there, I'm Nguyễn Cao Cường
 
-<!--
-**nguyencuong335/nguyencuong335** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Engineering](https://img.shields.io/badge/Focus-Data%20Engineering-blue)
+![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-green)
+![UIT](https://img.shields.io/badge/School-UIT--VNU%20HCM-orange)
 
-Here are some ideas to get you started:
+🎓 Student at **University of Information Technology – VNU-HCM (UIT)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- Passionate about **data pipelines** and **machine learning**
+- Learning how to turn raw data into **useful insights**
+- Interested in building **practical ML systems**
+
+---
+
+### 🛠 Tech Interests
+
+- 🗄️ **Data**: SQL, Python (Pandas, Numpy), ETL 
+- 🤖 **Machine Learning**: scikit-learn, classical ML models 
+- ⚙️ **Tools**: Git/GitHub
+
+---
+
+### 📫 Contact
+
+- ✉️ Email: `cuongcvk20@gmail.com`
+
