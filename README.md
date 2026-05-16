@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Nguyễn Cao Cường
 
-![Data Engineering](https://img.shields.io/badge/Focus-Data%20Engineering-blue)
+![AI Engineering](https://img.shields.io/badge/Focus-AI%20Engineering-blue)
 ![Machine Learning](https://img.shields.io/badge/Focus-Machine%20Learning-green)
 ![UIT](https://img.shields.io/badge/School-UIT--VNU%20HCM-orange)
 
